@@ -1,0 +1,42 @@
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP1 _ LABII\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\obj\Debug\Entidades.exe
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\obj\Debug\Entidades.pdb
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\bin\Debug\Entidades.exe
+C:\Users\B9E22DC\Desktop\TP1 _ LABII\Trabajo_Practico\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP\TP1 _ LABII\TP1 Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Martin\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\alumno\Desktop\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
