@@ -40,3 +40,10 @@ C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Ent
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe.config
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\bin\Debug\Entidades.exe
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.exe
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\Entidades\obj\Debug\Entidades.pdb

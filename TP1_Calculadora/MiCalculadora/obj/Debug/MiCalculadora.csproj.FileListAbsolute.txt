@@ -82,3 +82,17 @@ C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\MiC
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Mach\Desktop\Proyecto Lab-Prog II\TP_Laboratorio_II\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Mach_\OneDrive\Escritorio\TP_Laboratorio_II-master\TP1_Calculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

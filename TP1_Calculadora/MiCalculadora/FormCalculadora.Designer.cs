@@ -42,7 +42,6 @@
             this.lblResultado.Size = new System.Drawing.Size(169, 21);
             this.lblResultado.TabIndex = 0;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // txtNro1
             // 
@@ -163,7 +162,6 @@
             this.Load += new System.EventHandler(this.FormCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
 

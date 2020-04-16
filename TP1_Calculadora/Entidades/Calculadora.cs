@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Entidades
 {
 
-    public class Calculadora
+   public static class Calculadora
     {
         #region Métodos
         
@@ -25,7 +25,7 @@ namespace Entidades
         #endregion
 
         #region Operador
-        public double Operar(Numero num1, Numero num2, string operador)
+        public static double Operar(Numero num1, Numero num2, string operador)
         {
             string operadorValidado = Calculadora.ValidarOperador(operador);
             double resultado = 0;

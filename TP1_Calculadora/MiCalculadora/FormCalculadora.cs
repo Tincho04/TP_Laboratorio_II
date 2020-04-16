@@ -47,15 +47,14 @@ namespace MiCalculadora
         {
             Numero num1 = new Numero(numero1);
             Numero num2 = new Numero(numero2);
-            Calculadora calculadora = new Calculadora();
-            double resultado = calculadora.Operar(num1, num2, operador);
+            double resultado = Calculadora.Operar(num1, num2, operador);
             return resultado;
         }
 
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
 
@@ -81,11 +80,6 @@ namespace MiCalculadora
             {
             btnConvertirADecimal.Enabled = false;
             }
-    }
-
-        private void lblResultado_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void FormCalculadora_Load(object sender, EventArgs e)
