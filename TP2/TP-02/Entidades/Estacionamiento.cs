@@ -47,7 +47,7 @@ namespace Entidades
         /// <param name="c">Elemento a exponer</param>
         /// <param name="ETipo">Tipos de ítems de la lista a mostrar</param>
         /// <returns></returns>
-        public string Mostrar(Estacionamiento c, ETipo tipo)
+        public static string Mostrar(Estacionamiento c, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
 
