@@ -1,0 +1,11 @@
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\bin\Debug\Abstractas.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\bin\Debug\Abstractas.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\obj\Debug\Abstractas.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Abstractas\obj\Debug\Abstractas.pdb

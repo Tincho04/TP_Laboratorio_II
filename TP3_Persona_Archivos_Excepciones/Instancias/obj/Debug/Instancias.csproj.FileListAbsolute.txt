@@ -1,0 +1,15 @@
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Instancias\obj\Debug\Instancias.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\Silva.Martin.2C.TP3\Instancias\obj\Debug\Instancias.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Instancias.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Instancias.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Abstractas.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Archivos.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Excepciones.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Abstractas.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Archivos.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Excepciones.pdb
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csproj.CopyComplete
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.dll
+C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.pdb
