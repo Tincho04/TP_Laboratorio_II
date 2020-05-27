@@ -9,6 +9,7 @@ namespace Instancias
 #pragma warning disable CS0661, CS0660
     public class Universidad
     {
+        #region Enumerado
         public enum EClases
         {
             Programacion,
@@ -16,6 +17,8 @@ namespace Instancias
             Legislacion,
             SPD
         }
+        #endregion
+
         #region Atributos
         private List<Alumno> alumnos;
         private List<Jornada> jornadas;
@@ -269,14 +272,6 @@ namespace Instancias
             {
                 throw new AlumnoRepetidoException();
             }
-            //foreach (Alumno item in u.alumnos)
-            //{
-            //    if (item == a)
-            //    {
-            //        throw new AlumnoRepetidoException();
-            //    }
-            //}
-            //u.alumnos.Add(a);
             return u;
         }
 
@@ -293,22 +288,6 @@ namespace Instancias
                 u.profesores.Add(i);
             }
             return u;
-
-            //bool estaRepetido = false;
-
-            //foreach (Profesor item in u.profesores)
-            //{
-            //    if (item == i)
-            //    {
-            //        estaRepetido = true;
-            //        break;
-            //    }
-            //}
-            //if (!estaRepetido)
-            //{
-            //    u.profesores.Add(i);
-            //}
-            //return u;
         }
 
         /// <summary>

@@ -14,17 +14,6 @@ namespace Archivos
             {
                 using (StreamWriter writer = new StreamWriter(archivo, File.Exists(archivo)))
                     writer.WriteLine(datos);
-                //
-                //if (File.Exists(archivo))
-                //{
-                //    using (StreamWriter writer = File.AppendText(archivo))
-                //        writer.WriteLine(datos);
-                //}
-                //else
-                //{
-                //    using (StreamWriter writer = File.CreateText(archivo))
-                //        writer.WriteLine(datos);
-                //}
                 retorno = true;
             }
             catch (Exception ex)
