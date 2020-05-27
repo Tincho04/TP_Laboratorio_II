@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Excepciones;
+﻿using Excepciones;
+using System;
 using System.IO;
 
 namespace Archivos
@@ -15,18 +11,20 @@ namespace Archivos
         {
             bool retorno = false;
             try
-            {               
-                if (File.Exists(archivo))
-                {
-                    using (StreamWriter writer = File.AppendText(archivo))
+            {
+                using (StreamWriter writer = new StreamWriter(archivo, File.Exists(archivo)))
                     writer.WriteLine(datos);
-                }
-                else
-                {
-                    StreamWriter writer = File.CreateText(archivo);
-                    writer.WriteLine(datos);
-                    writer.Close();
-                }
+                //
+                //if (File.Exists(archivo))
+                //{
+                //    using (StreamWriter writer = File.AppendText(archivo))
+                //        writer.WriteLine(datos);
+                //}
+                //else
+                //{
+                //    using (StreamWriter writer = File.CreateText(archivo))
+                //        writer.WriteLine(datos);
+                //}
                 retorno = true;
             }
             catch (Exception ex)
@@ -45,7 +43,6 @@ namespace Archivos
                 using (StreamReader reader = new StreamReader(archivo))
                 {
                     dato = reader.ReadToEnd();
-                    reader.Close();
                     retorno = true;
                 }
             }

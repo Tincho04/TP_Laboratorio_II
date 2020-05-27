@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Excepciones;
+using System;
 using System.Text;
-using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
-using Excepciones;
 
 namespace Archivos
 {
@@ -18,7 +15,7 @@ namespace Archivos
             XmlSerializer serializer = new XmlSerializer(typeof(T));
             try
             {
-                XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8);
+                using (XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8))
                 serializer.Serialize(writer, datos);
                 retorno = true;
             }

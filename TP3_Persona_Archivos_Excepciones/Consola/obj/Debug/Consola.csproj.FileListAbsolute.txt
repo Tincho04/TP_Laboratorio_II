@@ -16,3 +16,19 @@ C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.csproj.CopyComplete
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.exe
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Consola.exe.config
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Consola.exe
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Consola.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Abstractas.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Excepciones.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Instancias.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Archivos.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Abstractas.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Excepciones.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Instancias.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\bin\Debug\Archivos.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.exe
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Consola\obj\Debug\Consola.pdb

@@ -13,3 +13,16 @@ C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csproj.CopyComplete
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.dll
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Instancias.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Instancias.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Abstractas.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Archivos.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Excepciones.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Abstractas.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Archivos.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\bin\Debug\Excepciones.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Instancias\obj\Debug\Instancias.pdb

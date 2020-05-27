@@ -23,3 +23,28 @@ C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.dll
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\TestUnitarios.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\TestUnitarios.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Abstractas.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Excepciones.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Instancias.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Archivos.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Abstractas.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Excepciones.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Instancias.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\bin\Debug\Archivos.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\TestUnitarios\obj\Debug\TestUnitarios.pdb

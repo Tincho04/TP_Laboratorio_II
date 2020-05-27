@@ -24,7 +24,7 @@ namespace TestUnitarios
         }
 
         [TestMethod]
-        public void NoNull()
+        public void ValidaAtributoTipoColeccion()
         {
             Universidad uni = new Universidad();
             Alumno a1 = new Alumno(3, "SubjectTest", "3", "987654", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion, Alumno.EEstadoCuenta.Becado);

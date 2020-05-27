@@ -16,3 +16,12 @@ C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.dll
 C:\Users\Mach\Desktop\TP_Laboratorio_II-master\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\bin\Debug\Archivos.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\bin\Debug\Archivos.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\bin\Debug\Excepciones.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\bin\Debug\Excepciones.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP3_Persona_Archivos_Excepciones\Archivos\obj\Debug\Archivos.pdb
