@@ -1,0 +1,6 @@
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
