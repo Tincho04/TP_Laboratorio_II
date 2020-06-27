@@ -32,6 +32,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCorreo));
             this.grbEstadoP = new System.Windows.Forms.GroupBox();
             this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
+            this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
             this.lblEstadoEntregado = new System.Windows.Forms.Label();
@@ -45,11 +47,9 @@
             this.btnMostrarTodos = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
-            this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.grbEstadoP.SuspendLayout();
-            this.grBPaquete.SuspendLayout();
             this.cmsListas.SuspendLayout();
+            this.grBPaquete.SuspendLayout();
             this.SuspendLayout();
             // 
             // grbEstadoP
@@ -75,7 +75,21 @@
             this.lstEstadoEntregado.Location = new System.Drawing.Point(541, 53);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
             this.lstEstadoEntregado.Size = new System.Drawing.Size(216, 277);
-            this.lstEstadoEntregado.TabIndex = 7;
+            this.lstEstadoEntregado.TabIndex = 6;
+            // 
+            // cmsListas
+            // 
+            this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mostrarToolStripMenuItem});
+            this.cmsListas.Name = "cmsListas";
+            this.cmsListas.Size = new System.Drawing.Size(116, 26);
+            // 
+            // mostrarToolStripMenuItem
+            // 
+            this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
+            this.mostrarToolStripMenuItem.Text = "Mostrar";
+            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // lstEstadoEnViaje
             // 
@@ -83,7 +97,7 @@
             this.lstEstadoEnViaje.Location = new System.Drawing.Point(276, 53);
             this.lstEstadoEnViaje.Name = "lstEstadoEnViaje";
             this.lstEstadoEnViaje.Size = new System.Drawing.Size(216, 277);
-            this.lstEstadoEnViaje.TabIndex = 6;
+            this.lstEstadoEnViaje.TabIndex = 5;
             // 
             // lstEstadoIngresado
             // 
@@ -91,7 +105,7 @@
             this.lstEstadoIngresado.Location = new System.Drawing.Point(7, 53);
             this.lstEstadoIngresado.Name = "lstEstadoIngresado";
             this.lstEstadoIngresado.Size = new System.Drawing.Size(216, 277);
-            this.lstEstadoIngresado.TabIndex = 5;
+            this.lstEstadoIngresado.TabIndex = 4;
             // 
             // lblEstadoEntregado
             // 
@@ -144,7 +158,8 @@
             this.txtDireccion.Location = new System.Drawing.Point(9, 70);
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(145, 20);
-            this.txtDireccion.TabIndex = 5;
+            this.txtDireccion.TabIndex = 1;
+            this.txtDireccion.TextChanged += new System.EventHandler(this.txtDireccion_TextChanged);
             // 
             // mtxtTrackingID
             // 
@@ -152,7 +167,8 @@
             this.mtxtTrackingID.Mask = "000-000-0000";
             this.mtxtTrackingID.Name = "mtxtTrackingID";
             this.mtxtTrackingID.Size = new System.Drawing.Size(145, 20);
-            this.mtxtTrackingID.TabIndex = 4;
+            this.mtxtTrackingID.TabIndex = 0;
+            this.mtxtTrackingID.TextChanged += new System.EventHandler(this.mtxtTrackingID_TextChanged);
             // 
             // lblDireccion
             // 
@@ -178,7 +194,7 @@
             this.btnMostrarTodos.Location = new System.Drawing.Point(190, 61);
             this.btnMostrarTodos.Name = "btnMostrarTodos";
             this.btnMostrarTodos.Size = new System.Drawing.Size(99, 33);
-            this.btnMostrarTodos.TabIndex = 1;
+            this.btnMostrarTodos.TabIndex = 3;
             this.btnMostrarTodos.Text = "Mostrar Todos";
             this.btnMostrarTodos.UseVisualStyleBackColor = true;
             this.btnMostrarTodos.Click += new System.EventHandler(this.btnMostrarTodos_Click);
@@ -188,7 +204,7 @@
             this.btnAgregar.Location = new System.Drawing.Point(190, 19);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(99, 33);
-            this.btnAgregar.TabIndex = 0;
+            this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
             this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
@@ -199,22 +215,8 @@
             this.rtbMostrar.Name = "rtbMostrar";
             this.rtbMostrar.ReadOnly = true;
             this.rtbMostrar.Size = new System.Drawing.Size(418, 107);
-            this.rtbMostrar.TabIndex = 2;
+            this.rtbMostrar.TabIndex = 7;
             this.rtbMostrar.Text = "";
-            // 
-            // cmsListas
-            // 
-            this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mostrarToolStripMenuItem});
-            this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(116, 26);
-            // 
-            // mostrarToolStripMenuItem
-            // 
-            this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
-            this.mostrarToolStripMenuItem.Text = "Mostrar";
-            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // FrmCorreo
             // 
@@ -231,9 +233,9 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmCorreo_FormClosing);
             this.grbEstadoP.ResumeLayout(false);
             this.grbEstadoP.PerformLayout();
+            this.cmsListas.ResumeLayout(false);
             this.grBPaquete.ResumeLayout(false);
             this.grBPaquete.PerformLayout();
-            this.cmsListas.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

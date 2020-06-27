@@ -1,6 +1,7 @@
 ﻿using Entidades;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace MainCorreo
@@ -42,7 +43,16 @@ namespace MainCorreo
             }
             else
             {
-                MessageBox.Show("Por favor rellene los datos");
+                if (txtDireccion.Text == string.Empty)
+                {
+                    txtDireccion.BackColor = Color.Red;
+                    MessageBox.Show("Por favor defina la dirección de destino");
+                }
+                if (mtxtTrackingID.Text == "   -   -")
+                {
+                    mtxtTrackingID.BackColor = Color.Red;
+                    MessageBox.Show("Se requiere asignar un Tracking ID");
+                }
             }
         }
 
@@ -134,6 +144,16 @@ namespace MainCorreo
         private void FrmCorreo_FormClosing(object sender, FormClosingEventArgs e)
         {
             correo.finEntregas();
+        }
+
+        private void txtDireccion_TextChanged(object sender, EventArgs e)
+        {
+            txtDireccion.BackColor = Color.White;
+        }
+
+        private void mtxtTrackingID_TextChanged(object sender, EventArgs e)
+        {
+            mtxtTrackingID.BackColor = Color.White;
         }
     }
 }

@@ -4,3 +4,9 @@ C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidade
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.dll
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\bin\Debug\Entidades.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\Entidades\obj\Debug\Entidades.pdb

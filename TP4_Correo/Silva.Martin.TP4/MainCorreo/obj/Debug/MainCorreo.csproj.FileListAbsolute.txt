@@ -11,3 +11,16 @@ C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorr
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\Entidades.dll
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\Entidades.pdb
 C:\Users\Mach\Desktop\TPS\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\Entidades.dll
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\bin\Debug\Entidades.pdb
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.FrmCorreo.resources
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\Martin\Descargas\Lab - Prog II\TP_Laboratorio_II\TP4_Correo\Silva.Martin.TP4\MainCorreo\obj\Debug\MainCorreo.pdb

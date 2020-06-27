@@ -75,6 +75,7 @@ namespace Entidades
                     throw new TrackingIdRepetidoException("Tracking ID repetido");
                 }
             }
+
             try
             {
                 c.Paquetes.Add(p);
